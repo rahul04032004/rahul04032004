@@ -120,3 +120,7 @@ suphalbochkar@github:~$ ./welcome.sh
 </div>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/rahul04032004/rahul04032004/output/snake.svg" alt="Snake animation" />
+
+###
