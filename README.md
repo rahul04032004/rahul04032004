@@ -22,17 +22,17 @@ rahul04032004@github:~$ ./welcome.sh
 ```
 
 ```markdown
-🎓 Pursuing a Bachelor's in Computer Science
-👨‍💻 Passionate about programming and exploring the world of technology.
-🔎 Main interests: Web Development & Cyber Security
-🔭 Thriving on building robust Backend Systems.
-🌱 Currently diving into Cloud Computing and Next.js
-🌟 Proficient in: Java, Python
-💼 Open to collaboration on innovative Web development projects!
-🚩 Keep coding, keep innovating! Let's build the future together!
-🐧 I use Arch btw...
-🎧 Most likely listening to a song right now
-🔄 To understand recursion, you first need to understand recursion.
+🎓 B.Tech Computer Science student @ Lovely Professional University  
+🧠 Passionate about tech, problem-solving, and building practical systems    
+🛠️ Skilled in Java, Python, JavaScript, and backend frameworks  
+🚀 Currently exploring DevOps, Next.js, and cloud-native applications  
+🔍 Interested in Open Source, AI assistants, and system design  
+📊 Hands-on with tools like Docker, Jenkins, GitHub Actions, and AWS  
+💡 Built apps with Streamlit, LangChain, and HuggingFace  
+🤝 Always up for collaborative, impactful tech projects  
+🐧 Yep, I use Arch btw...  
+🎧 Vibing with music while debugging  
+🔄 Fun fact: To understand recursion, you must first understand recursion.
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
 
