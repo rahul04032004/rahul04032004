@@ -52,12 +52,6 @@ rahul04032004@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" />
     </p>
-      <!-- Frameworks & Libraries -->
-    <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" height="25" />
-    </p>
 <!-- DevOps & Deployment -->
     <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="25" />
@@ -66,6 +60,12 @@ rahul04032004@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" height="25" />
+    </p>
+<!-- Frameworks & Libraries -->
+    <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" height="25" />
     </p>
 <!-- Databases & BI -->
     <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
