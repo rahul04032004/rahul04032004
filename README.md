@@ -87,11 +87,11 @@ rahul04032004@github:~$ ./welcome.sh
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; gap: 30px; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&count_private=true" height="105" alt="Status Graph" />
-  <img src="https://streak-stats.demolab.com?user=rahul04032004&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="105" alt="Streak Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul04032004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&custom_title=Languages" height="105" alt="Languages Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=rahul04032004&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul04032004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&custom_title=Languages" height="160" />
+</p>
 
 
 <br>
