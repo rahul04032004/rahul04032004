@@ -9,7 +9,8 @@
 ## We often put so much energy into the big picture, we forget the pixels.
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="auto">
+<br><br>
 <!-- About ME -->
 
 ### About Me
@@ -37,8 +38,7 @@ rahul04032004@github:~$ ./welcome.sh
 🔄 To understand recursion, you first need to understand recursion.
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-<br><br>
+
 
 ### Tech Stack
 
