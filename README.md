@@ -66,16 +66,12 @@ rahul04032004@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jenkins/jenkins2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" height="25" />
     </p>
 <!-- Databases & BI -->
     <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Excel/excel2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tableau/tableau2.svg" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PowerBI/powerbi2.svg" height="25" />
     </p>
 <!-- Editors -->
     <p align="center" style="display: flex; flex-wrap: wrap; gap: 9px;">
