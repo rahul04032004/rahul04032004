@@ -89,7 +89,6 @@ rahul04032004@github:~$ ./welcome.sh
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&show_icons=true&bg_color=00000000" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul04032004&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
