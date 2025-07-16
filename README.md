@@ -88,10 +88,11 @@ rahul04032004@github:~$ ./welcome.sh
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul04032004&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_border=false" height="160" />
   <img src="https://streak-stats.demolab.com?user=rahul04032004&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul04032004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&custom_title=Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul04032004&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=false" height="160" />
 </p>
+
 
 
 <br>
