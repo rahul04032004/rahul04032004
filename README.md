@@ -5,10 +5,8 @@
 </div>
 
 <div align="center">
-
-## We often put so much energy into the big picture, we forget the pixels.
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="750">
-<br><br>
+  <h2 style="margin-bottom: 0;">We often put so much energy into the big picture, we forget the pixels.</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="750" style="margin-top: 4px;" />
 </div>
 
 <!-- About ME -->
