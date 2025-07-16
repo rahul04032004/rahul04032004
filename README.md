@@ -45,8 +45,6 @@ rahul04032004@github:~$ ./welcome.sh
 
 ### Tech Stack
 
-### 🚀 Tech Stack
-
 <div align="center">
 
 <!-- Programming Languages -->
@@ -61,15 +59,6 @@ rahul04032004@github:~$ ./welcome.sh
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" />
 
 <br><br>
-
-<!-- Frameworks & Libraries -->
-<b>Frameworks & Tools</b><br>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" height="25" />
-
-<br><br>
-
 <!-- Version Control & CI/CD -->
 <b>DevOps & Deployment</b><br>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="25" />
@@ -81,27 +70,31 @@ rahul04032004@github:~$ ./welcome.sh
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" height="25" />
 
 <br><br>
-
-<!-- Databases & BI -->
+<!-- Databases & Visualization -->
 <b>Databases & Visualization</b><br>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" height="25" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Excel/excel2.svg" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tableau/tableau2.svg" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PowerBI/powerbi2.svg" height="25" />
 
 <br><br>
-
-<!-- IDEs -->
-<b>Code Editors</b><br>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" height="25" />
+<!-- Frameworks & Libraries -->
+<b>Frameworks & Tools</b><br>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" height="25" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" height="25" />
 
 <br><br>
-
 <!-- OS -->
 <b>Operating Systems</b><br>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="25" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" height="25" />
+
+<br><br>
+<!-- IDEs -->
+<b>Code Editors</b><br>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" height="25" />
 
 </div>
 
