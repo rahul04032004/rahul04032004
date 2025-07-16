@@ -20,7 +20,7 @@
     </div>
 
 ```
-suphalbochkar@github:~$ ./welcome.sh
+rahul04032004@github:~$ ./welcome.sh
 ```
 
 ```markdown
@@ -29,7 +29,7 @@ suphalbochkar@github:~$ ./welcome.sh
 🔎 Main interests: Web Development & Cyber Security
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into Cloud Computing and Next.js
-🌟 Proficient in: C++, TypeScript
+🌟 Proficient in: Java, Python
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
