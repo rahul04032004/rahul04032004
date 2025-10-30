@@ -18,6 +18,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        
+      - name: Increase Node.js memory
+        run: echo "NODE_OPTIONS=--max-old-space-size=4096" >> $GITHUB_ENV
+
 
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
